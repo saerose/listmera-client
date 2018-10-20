@@ -6,17 +6,20 @@ Welcome to the Github repository for Listmera! Listmera is a platform to create 
 
 ## Screenshots
 
-Home page 🚀
-![home-screen](https://i.imgur.com/3iBCPXj.jpg)
+<center>
+  <table>
+    <tr>
+      <td><img width="450" alt="lauragift21" src="https://i.imgur.com/3iBCPXj.jpg"></td>
+      <td><img width="450" alt="maracuja-juice" src="https://i.imgur.com/7rTS86w.png"></td>
+    </tr>
+    <tr>
+      <td><img width="450" alt="chdemko" src="https://i.imgur.com/eltt3gp.png"></td>
+      <td><img width="450" alt="chendaniely" src="https://i.imgur.com/VrNACOI.jpg"></td>
+    </tr>
 
-Create a new playlist
-![create-playlist](https://i.imgur.com/7rTS86w.png)
+  </table>
+</center>
 
-Look of a playlist you own
-![playlist-admin](https://i.imgur.com/eltt3gp.png)
-
-User profile
-![profile](https://i.imgur.com/VrNACOI.jpg)
 
 ## Getting Started
 
